@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jessica Lee
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jessica Lee
 ===================================================================================================================================
 
 During my journey as a developer, I applied machine learning to large-scale real-world data in computer vision and retail from analyzing and preprocessing the data, building and optimizing ML models, to deploying on GCP and Edge devices. I also contributed to the design and implementation of the hardware inference acceleration APIs in C++ and Python. 
@@ -6,7 +6,7 @@ During my journey as a developer, I applied machine learning to large-scale real
 Besides industrial experiences, I have worked on LLM projects, games and VR projects in Unity, as well as app/web app development projects. In general, I love learning basically ANYTHING and stretching my brain during the process. (Just slightly more than the "design-and-implement" work as a usual developer:))
 
 * 🌍  I'm based in New York / Taipei
-* 🖥️  See more about me at [Jessica Lee](http://personal-website-nine-navy-34.vercel.app/)
+* 🖥️  See more about me at [Jessica Lee](https://www.jessicajiaenlee.me/)
 * ✉️  You can contact me at [nn.jessica.lee@gmail.com](mailto:nn.jessica.lee@gmail.com)
 * 📷  I'm recently diving into 3D reconstruction
 
